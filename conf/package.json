@@ -1,0 +1,21 @@
+{
+  "name": "conf",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "conf.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "barone",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.0.0",
+    "jasmine-core": "2.4.1",
+    "jasmine-expect": "2.0.1",
+    "protractor": "~3.1.1"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1"
+  }
+}
