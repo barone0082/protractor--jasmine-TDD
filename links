@@ -8,3 +8,4 @@ webdriver-manager start  -> STARTAR SERVIDOR
 
 protractor inicia teste
   
+protractor conf.js
